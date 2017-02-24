@@ -1,0 +1,6 @@
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\Lab2AT.exe.config
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\obj\Debug\Lab2AT.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\Lab2AT.exe
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\Lab2AT.pdb
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\obj\Debug\Lab2AT.exe
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\obj\Debug\Lab2AT.pdb
