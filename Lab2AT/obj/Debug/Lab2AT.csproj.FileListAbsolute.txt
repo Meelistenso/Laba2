@@ -4,3 +4,6 @@ C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\La
 C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\Lab2AT.pdb
 C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\obj\Debug\Lab2AT.exe
 C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\obj\Debug\Lab2AT.pdb
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\LambdaMicrobenchmarking.dll
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\MathNet.Numerics.dll
+C:\Users\Игорь\Desktop\Новая папка (2)\Lab2AT\Lab2AT\bin\Debug\MathNet.Numerics.xml

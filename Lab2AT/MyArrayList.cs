@@ -64,9 +64,9 @@ namespace Lab2AT
         public double Summ()
         {
             double res = 0;
-            foreach (T _item in array)
+            for (uint i = 0; i < Count; i++)
             {
-                res += Convert.ToDouble(_item);
+                res += Convert.ToDouble(array[i]);
             }
             return res;
         }
